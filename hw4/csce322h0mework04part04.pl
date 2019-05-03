@@ -1,0 +1,1 @@
+nextCard(Hand,Discard,(-,-)).
