@@ -1,0 +1,1 @@
+y,r;w,d;b,1;b,7;y,8;g,6;b,s;w,d;y,d;r,3;b,1;g,5;r,r;g,1;b,4;y,0;y,r;r,2;y,6;b,8;g,6;b,s;b,3;w,-;y,1;r,0;r,r;g,4;w,d;g,4;r,9;y,7;g,5;r,4;g,8;r,8;y,d;w,-;b,r;g,9;g,1;g,d;b,7;b,2;r,5;g,3;g,s;b,5;g,3;b,6;b,8;b,d;r,d;y,9;r,4;r,1;y,4;r,d
