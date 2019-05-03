@@ -9,7 +9,8 @@ Parse [UNO](https://en.wikipedia.org/wiki/Uno_(card_game)) cards and simulates p
 Part 1 : The first player will play one move.
 Part 2 : The first player will play as many cards as he or she can from their hands without drawing.
 Part 3: Every player will play one move.
-Part 4: Every player will  play the game according to UNO rules until one player wins and placed [--] on the top stack to symbolize the end of the game or until there is no more card to draw.
+Part 4: Every player will  play the game according to UNO rules until one player wins and placed [--] on the
+top stack to symbolize the end of the game or until there is no more card to draw.
 ```
 
 
