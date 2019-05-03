@@ -1,4 +1,4 @@
-# CSCE322-Programming LanguagesConcepts
+# CSCE322-Programming Languages Concepts
 
 ##  Homework 1
 Scan, parse, and check all the semantics of a file that encodes the state variation of [UNO](https://en.wikipedia.org/wiki/Uno_(card_game)) using ANTLR4.
